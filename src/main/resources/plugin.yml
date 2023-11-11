@@ -1,0 +1,4 @@
+name: AbuseDetector
+version: '${project.version}'
+main: net.craftsupport.abusedetector.AbuseDetector
+api-version: '1.20'
